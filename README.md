@@ -16,10 +16,5 @@ This is a simple web-based iPod application where users can play songs and enjoy
 3. **Control playback** with the navigation buttons.
 4. **Use the wheel to scroll** and interact with the iPod UI.
 
-## Live Demo
 
-Check out the live demo of the project [here](https://kethankoushik09.github.io/Ipod/).
-
-## Repository
-
-Explore the code on GitHub: [iPod Project Repository](https://github.com/kethankoushik09/Ipod)
+ https://kethankoushik09.github.io/Ipod/
