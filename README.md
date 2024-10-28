@@ -17,4 +17,5 @@ This is a simple web-based iPod application where users can play songs and enjoy
 4. **Use the wheel to scroll** and interact with the iPod UI.
 
 
- https://kethankoushik09.github.io/Ipod/
+##Live Demo
+[Demo](https://kethankoushik09.github.io/Ipod/)
