@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Ipod/static/css/main.12a35fe8.css",
+    "main.js": "/Ipod/static/js/main.f29bb8b5.js",
+    "static/js/453.5fb81daf.chunk.js": "/Ipod/static/js/453.5fb81daf.chunk.js",
+    "static/media/Parayuvan.mp3": "/Ipod/static/media/Parayuvan.7b00c619838a9210e41b.mp3",
+    "static/media/Uyire.mp3": "/Ipod/static/media/Uyire.243b4b2793d8c6e21ec8.mp3",
+    "static/media/Maruvaarthai.mp3": "/Ipod/static/media/Maruvaarthai.242bdcc1243ab932ddea.mp3",
+    "static/media/Leharaayi.mp3": "/Ipod/static/media/Leharaayi.452eb6f9866f4fec7a17.mp3",
+    "static/media/Kalaavathi.mp3": "/Ipod/static/media/Kalaavathi.297080b7e2b0292f9e58.mp3",
+    "static/media/Samajavaragamana .mp3": "/Ipod/static/media/Samajavaragamana .11fcff4c9ee38ea343d4.mp3",
+    "static/media/artist.jpg": "/Ipod/static/media/artist.a6014c17f08bb0b551bd.jpg",
+    "static/media/sid.jpg": "/Ipod/static/media/sid.47ec843eb39ef808715b.jpg",
+    "static/media/game.jpg": "/Ipod/static/media/game.aa026fae6a2e3759c600.jpg",
+    "static/media/album.jpg": "/Ipod/static/media/album.0cd5f81a9d90a1f6b362.jpg",
+    "static/media/cf.jpg": "/Ipod/static/media/cf.636347610ace1c10d085.jpg",
+    "static/media/ipodback.jpg": "/Ipod/static/media/ipodback.7192cbf81817c1f6edee.jpg",
+    "static/media/settings.jpg": "/Ipod/static/media/settings.d06dc516833708cff748.jpg",
+    "index.html": "/Ipod/index.html",
+    "main.12a35fe8.css.map": "/Ipod/static/css/main.12a35fe8.css.map",
+    "main.f29bb8b5.js.map": "/Ipod/static/js/main.f29bb8b5.js.map",
+    "453.5fb81daf.chunk.js.map": "/Ipod/static/js/453.5fb81daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12a35fe8.css",
+    "static/js/main.f29bb8b5.js"
+  ]
+}
