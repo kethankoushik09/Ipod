@@ -232,3 +232,71 @@ overflow: hidden;
   box-shadow: 1px 0.8px 15px black;
   margin-bottom: 8px;
 }
+
+
+/* ===================  MOBILE / SMALL DEVICES  =================== */
+@media (max-width: 768px) {
+  .bg-clr {
+    flex-direction: column;
+    padding-top: 5px;
+  }
+
+  .ipod-bg-color {
+    width: 70%;
+    height: 80%;
+  }
+
+  .screen-container {
+    height: 50%;
+    width: 95%;
+  }
+
+  .button-container {
+    width: 75%;
+    height: 35%;
+  }
+
+  .ipod-menu {
+    font-size: 20px;
+  }
+
+  .menu-items div h2 {
+    font-size: 18px;
+  }
+
+  .sid {
+    height: 120px;
+    width: 100px;
+  }
+}
+
+/* ===================  EXTRA SMALL DEVICES (PHONES)  =================== */
+@media (max-width: 480px) {
+  .ipod-bg-color {
+    width: 90%;
+    height: 75%;
+  }
+
+  .screen-container {
+    height: 45%;
+    width: 90%;
+  }
+
+  .button-container {
+    width: 85%;
+    height: 30%;
+  }
+
+  .ipod-menu {
+    font-size: 18px;
+  }
+
+  .menu-items div h2 {
+    font-size: 16px;
+  }
+
+  .sid {
+    height: 100px;
+    width: 85px;
+  }
+}
